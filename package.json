@@ -48,7 +48,6 @@
     "helmet": "^4.6.0",
     "mssql": "^7.1.0",
     "node-fetch": "^2.6.1",
-    "p-sleep": "^1.1.0",
     "pg": "^8.7.3",
     "sequelize": "^6.10.0",
     "serve-favicon": "^2.5.0",
